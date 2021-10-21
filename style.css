@@ -1,19 +1,16 @@
-h1 {
-    background-color: blue;
-    color: white;
-    text-align: center;
-    margin: auto;
+.navbar-brand {
+    font-size: 36px;
 }
 
-.search-card {
-    width: 40%;
-    padding: 0 0 20px 0;
-    border-bottom: solid 5px black;
+.search-header {
+    font-size: 24px;
+    font-weight: bold;
 }
 
-.city-results {
-    border: solid 1px black;
-    padding: 15%;
-    margin: auto;
-    float: right;
+.city-name {
+    font-size: 30px;
+}
+
+.forecast-date {
+    font-size: 18px;
 }
